@@ -1,6 +1,6 @@
 # ofxHLuv
 
-ofxHLuv is an implementation of HLuv for OpenFrameworks. HLuv is a perceptually uniform color space with a constant luminance. 
+HLuv is a perceptually uniform color space with a constant luminance. 
 
 ## Installation
 
